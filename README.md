@@ -166,7 +166,4 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## Author
 
-[Your Name]
-```
-
-You can adjust the repository URL, author name, and any other details as needed. This README provides an overview of the project, its technologies, features, installation instructions, implementation details, and usage scenario.
+Bartłomiej Dziura
