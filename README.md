@@ -164,6 +164,3 @@ The application is organized into three main layers:
 
 This project is licensed under the [MIT License](LICENSE).
 
-## Author
-
-Bartłomiej Dziura
